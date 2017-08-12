@@ -27,5 +27,9 @@ font-weight: normal;
 }
 .image2{
   display: block;
-  margin: auto;
+  margin: 20px;
+}
+.copyright{
+  color: grey;
+  text-align: right;
 }
